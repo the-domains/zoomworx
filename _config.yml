@@ -6,9 +6,10 @@ color:
   saturation: 0.20846194960176945
   rhythmicContrast: 0.5203182133845985
   brandColors:
-    - '#717078'
-    - '#010101'
-    - '#FEFEFE'
-    - '#26252A'
-    - '#DAA89E'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: zoomworx
+title: zoomworx
