@@ -1,4 +1,3 @@
-layout_spectrum: 0.27564945654012263
 typography_spectrum: 0.6994839892722666
 color:
   brandStrength: 0.6668602570425719
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.27564945654012263
 name: zoomworx
 title: zoomworx
+description: photography
