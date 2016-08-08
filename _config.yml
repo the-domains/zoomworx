@@ -1,0 +1,14 @@
+layout_spectrum: 0.27564945654012263
+typography_spectrum: 0.6994839892722666
+color:
+  brandStrength: 0.6668602570425719
+  lightness: 0.5855263210833073
+  saturation: 0.20846194960176945
+  rhythmicContrast: 0.5203182133845985
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: zoomworx
